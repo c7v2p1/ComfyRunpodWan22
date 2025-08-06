@@ -1,4 +1,6 @@
 #!/bin/bash
+#preferrable specs:
+#RTX4090 up, Container size 10GB up, Volume size 100GB up
 
 set -e
 
