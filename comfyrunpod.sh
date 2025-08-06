@@ -1,4 +1,5 @@
 #!/bin/bash
+#This is the script to run at the first time you create a pod
 #preferrable specs:
 #RTX4090 up, Container size 10GB up, Volume size 100GB up
 
