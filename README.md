@@ -4,15 +4,15 @@ It will also download all the necessary checkpoints of Wan2.2 automatically and 
 To use the script, use the following commands:
 
 Start up a new runpod:
-git clone https://github.com/c7v2p1/ComfyRunpodWan22.git
+<pre>git clone https://github.com/c7v2p1/ComfyRunpodWan22.git</pre>
 
-chmod u+x /ComfyRunpodWan22/comfyrunpod.sh
+<pre>chmod u+x /ComfyRunpodWan22/comfyrunpod.sh</pre>
 
-./comfyrunpod.sh
+<pre>./comfyrunpod.sh</pre>
 
 Restart a stopped runpod:
-git clone https://github.com/c7v2p1/ComfyRunpodWan22.git
+<pre>git clone https://github.com/c7v2p1/ComfyRunpodWan22.git</pre>
 
-chmod u+x /ComfyRunpodWan22/restartpodscript.sh
+<pre>chmod u+x /ComfyRunpodWan22/restartpodscript.sh</pre>
 
-./restartpodscript.sh
+<pre>./restartpodscript.sh</pre>
