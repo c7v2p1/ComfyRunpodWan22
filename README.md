@@ -8,11 +8,11 @@ Start up a new runpod:
 
 <pre>chmod u+x /ComfyRunpodWan22/comfyrunpod.sh</pre>
 
-<pre>./comfyrunpod.sh</pre>
+<pre>./ComfyRunpodWan22/comfyrunpod.sh</pre>
 
 Restart a stopped runpod:
 <pre>git clone https://github.com/c7v2p1/ComfyRunpodWan22.git</pre>
 
 <pre>chmod u+x /ComfyRunpodWan22/restartpodscript.sh</pre>
 
-<pre>./restartpodscript.sh</pre>
+<pre>./ComfyRunpodWan22/restartpodscript.sh</pre>
